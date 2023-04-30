@@ -1,0 +1,27 @@
+.form {
+	display: flex;
+	flex-direction: column;
+	gap: 16px;
+}
+
+.label {
+	display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  margin-bottom: 10px;
+	font-size: 24px;
+	font-weight: 600;
+}
+
+.input {
+	padding: 8px;
+	font-size: 24px;
+}
+
+.formBtn {
+	padding: 8px;
+	font-size: 24px;
+	font-weight: 600;
+	background-color: aqua;
+	border-color: aqua;
+}
